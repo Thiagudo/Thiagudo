@@ -4,7 +4,7 @@
 
 - 🐼 estudando programação
 
-- 🗿 "falar é uma coisa, provar é outra coisa!" DIDICO
+- 🗿 "Toda conquista começa com a decisão de tentar"   
 
 <div>
   <a href="https://github.com/thiagudo">
@@ -27,9 +27,7 @@
   <a href="https://instagram.com/thiagovalenza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thvalenza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-<div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 
 
